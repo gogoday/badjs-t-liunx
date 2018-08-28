@@ -228,7 +228,5 @@ node_modules/
 #############
 ## my
 ############# 
-project.db  
 *.bat
 
-cache/errorMsg/

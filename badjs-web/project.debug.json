@@ -21,11 +21,14 @@
     },
     "email": {
         "homepage": "http://badjs.server.com/user/index.html",
-        "from": "noreply-badjs@demo.com",
+        "from": "badjs2",
         "emailSuffix" : "@demo.com",
         "smtp": "smtp.demo.com",
         "time": "09:00:00",
         "top": 20,
-        "module": "email"
-    }
+        "module": "email",
+        "to_f3_appkey":"xxx",
+        "to_f3_id": "xx"
+    },
+    "scoreMailTo": "xxx@xx.com"
 }
